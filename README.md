@@ -1,7 +1,7 @@
 # Hello, World! 👋
 
 ## About Me
-Hey there! KB0076, a passionate coder and tech enthusiast exploring the vast realms of software development. When I'm not lost in lines of code, you can find me playing Minecraft, chatting on Discord or maybe even creating something new with Legos. My goal is to keep learning, creating, and contributing to exciting projects that make a positive impact on the world.
+Hey there! I'm KB0076, a passionate coder and tech enthusiast exploring the vast realms of software development. When I'm not lost in lines of code, you can find me playing Minecraft, chatting on Discord or maybe even creating something new with Legos. My goal is to keep learning, creating, and contributing to exciting projects that make a positive impact on the world.
 
 ## Interests 👀
 - Exploring new programming languages and frameworks
