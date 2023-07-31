@@ -6,6 +6,7 @@ Hey there! I'm KB0076, a passionate coder and tech enthusiast exploring the vast
 ## Interests 👀
 - Exploring new programming languages and frameworks
 - Developing cool and useful applications
+- Making responsive websites
 
 ## Current Endeavors 🌱
 Currently, I'm diving deep into node.js, honing my skills and eager to tackle challenges that come my way. I believe that learning is a lifelong journey, and I'm excited to broaden my horizons within the world of technology.
